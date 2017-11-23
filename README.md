@@ -9,6 +9,6 @@
     compile "com.android.support:multidex:1.0.1" // 多dex配置
     compile 'com.tencent.bugly:crashreport_upgrade:1.3.3'
     ~~~
-3. 添加 tinker-support.gradle 文件 注意看：![效果图](/images/image1.png)
+3. 添加 tinker-support.gradle 文件 注意看：![效果图](/images/image1.jpg)
 4. 自定义Application(MyApplication) 和 ApplicationLike
 5. 具体生成步骤：https://bugly.qq.com/docs/user-guide/instruction-manual-android-hotfix-demo/
